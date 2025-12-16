@@ -50,5 +50,5 @@ The provided test suite encodes the 30 (target, candidate, expected match) examp
 pytest -q
 ```
 
-All tests should pass.
+
 
